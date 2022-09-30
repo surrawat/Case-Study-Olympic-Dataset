@@ -1,1 +1,1 @@
-# Case-Study-Olympic-Dataset
+# Case-Study-Titanic Dataset
